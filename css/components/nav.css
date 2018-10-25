@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-around;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: palevioletred;
+  flex-direction: row;
+  flex-grow: 1;
+  color: white;
+
+}

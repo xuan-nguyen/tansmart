@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil|Krub');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/nav.css");
+@import url("components/footer.css");
+
+body {
+	font-family: 'Krub', sans-serif;
+	font-size: 14px;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Allerta Stencil', sans-serif;
+	letter-spacing: 3px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: khaki;
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+
