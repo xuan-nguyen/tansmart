@@ -1,19 +1,14 @@
 .footer{
 	background-color: khaki;
-	 flex-wrap: wrap;
-  justify-content: start;
-  align-content: space-between;
-  margin-top: 25px;
-  padding-bottom: 25px;
-  padding-top: 5px;
+	margin-top: 25px;
+	padding-bottom: 25px;
+	padding-top: 5px;
 }
 
 .element{
-	  display: flex;
-  align-items: center;
-  justify-content: start;
-  flex-direction: column;
-  flex-basis: 10px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
 }
 
 .logo{
